@@ -19,6 +19,6 @@
     right: auto;
     left: 0;
 }
-.next-btn{
-    
+.slider{
+    overflow: hidden;
 }
